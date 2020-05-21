@@ -1,0 +1,19 @@
+#title {
+  color: red;
+  size: 20px;
+  text-align: center;
+}
+
+#colors {
+  margin: 50px 50px;
+}
+
+.square {
+    padding: 70px;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    width: 0%;
+    flex-direction: row;
+    display: flex;
+}
